@@ -194,7 +194,7 @@ elif tabs == "Explore":
             "name": "Adventure Seekers",
             "description": "Join a group of thrill-seekers and explorers who love outdoor adventures and pushing their limits.",
             "category": "Adventure",
-            "image": "/Users/timonwin/Downloads/StreamLitApp/images/adventure_seekers.jpg",
+            "image": "images/adventure_seekers.jpg",  # ✅ Updated to relative path
             "details": {
                 "Address": "Mountain Trailhead, Cityville",
                 "Meet Frequency": "Weekly",
@@ -206,7 +206,7 @@ elif tabs == "Explore":
             "name": "Gourmet Chefs",
             "description": "A community of culinary enthusiasts sharing recipes, cooking tips, and food inspiration.",
             "category": "Culinary",
-            "image": "/Users/timonwin/Downloads/StreamLitApp/images/gourmet_chefs.jpg",
+            "image": "images/gourmet_chefs.jpg",  # ✅ Updated to relative path
             "details": {
                 "Address": "Cooking Studio, Foodtown",
                 "Meet Frequency": "Bi-Weekly",
@@ -218,7 +218,7 @@ elif tabs == "Explore":
             "name": "Tech Enthusiasts",
             "description": "Connect with tech innovators, gadget lovers, and coding wizards who share your passion for technology.",
             "category": "Technology",
-            "image": "/Users/timonwin/Downloads/StreamLitApp/images/tech_enthusiasts.jpg",
+            "image": "images/tech_enthusiasts.jpg",  # ✅ Updated to relative path
             "details": {
                 "Address": "Tech Hub, Silicon City",
                 "Meet Frequency": "Monthly",
@@ -230,7 +230,7 @@ elif tabs == "Explore":
             "name": "Art Lovers",
             "description": "Discover a vibrant group of artists and art appreciators who share your creative vision.",
             "category": "Art",
-            "image": "/Users/timonwin/Downloads/StreamLitApp/images/art_lovers.jpg",
+            "image": "images/art_lovers.jpg",  # ✅ Updated to relative path
             "details": {
                 "Address": "Gallery District, Artsville",
                 "Meet Frequency": "Every Saturday",
