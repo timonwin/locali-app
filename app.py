@@ -50,7 +50,10 @@ if tabs == "Home":
     st.title("Welcome to Locali")
     st.subheader("Your Gateway to Hobby Matching and Community Discovery")
     st.write("Locali is designed to help you find people who share your passions. Whether you’re into cooking, photography, gaming, or exploring the great outdoors, Locali connects you with communities and events that match your interests.")
-    st.image("/Users/timonwin/Downloads/StreamLitApp/images/locali_home.jpg", use_container_width=True)
+    
+    # ✅ Updated to use relative path
+    st.image("images/locali_home.jpg", use_container_width=True)
+    
     st.write("""
         ### What can you do with Locali?
         - **Find Matches:** Select hobbies to discover groups with shared interests.
